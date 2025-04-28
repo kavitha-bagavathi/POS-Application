@@ -1,0 +1,13 @@
+
+  .row {
+    margin: 0;
+  }
+  
+  .col-6, .col-3, .col-9 {
+    padding: 2px;
+  }
+  
+  .flex-fill {
+    flex: 1;
+  }
+  
